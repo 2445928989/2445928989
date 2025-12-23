@@ -1,6 +1,3 @@
-![2445928989's GitHub stats](https://github-readme-stats.vercel.app/api?username=2445928989)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2445928989&stats_format=bytes)
 
 SCUT student
 
@@ -9,7 +6,7 @@ SCUT student
 ---
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=2445928989&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2445928989&stats_format=bytes&theme=tokyonight" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2445928989&stats_format=bytes&theme=tokyonight" />
 
 
 <!---
