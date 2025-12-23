@@ -4,9 +4,10 @@ SCUT student
 [![](https://img.shields.io/badge/bilibili-%E5%A4%B1%E6%A0%BC%E7%BB%85%E5%A3%AB-pink?logo=bilibili)](https://space.bilibili.com/89133069)
 
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=2445928989&show_icons=true&theme=tokyonight" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2445928989&stats_format=bytes&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=2445928989&show_icons=true&theme=tokyonight" />
+
 
 
 <!---
