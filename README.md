@@ -5,7 +5,7 @@ SCUT student
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=2445928989&show_icons=true&theme=tokyonight" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2445928989&stats_format=bytes&theme=tokyonight&layout=donut" />
+<img src="https://github-readme-stats.vercel.app/api?username=2445928989&show_icons=true&theme=tokyonight" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2445928989&stats_format=bytes&theme=tokyonight&layout=compact" />
 
 
 
